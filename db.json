@@ -1,4 +1,6 @@
 {
+  "sukses": [
+   {
   "status": "sukses",
   "message": "asd",
   "sn": "ads",
@@ -7,4 +9,18 @@
   "produk": "FF5",
   "sisa_saldo": 1000000,
   "price": 10000
+}
+  ],
+  "gagal": [
+   {
+      "status": "gagal",
+      "message": "asd",
+      "sn": "ads",
+      "ref_id": "tes12",
+      "trx_id": "123jad",
+      "produk": "FF5",
+      "sisa_saldo": 1000000,
+      "price": 10000
+    }
+  ]
 }
